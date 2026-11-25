@@ -1,0 +1,6 @@
+region= "us-east-2"
+cidr_vpc= "10.0.0.0/16"
+cidr_sub_public1= "10.0.1.0/24"
+cidr_sub_public2= "10.0.2.0/24"
+cidr_sub_private1= "10.0.3.0/24"
+cidr_sub_private2= "10.0.4.0/24"
